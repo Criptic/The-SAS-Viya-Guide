@@ -16,6 +16,10 @@ In this guide we will take one use case and go through the Analytical Life Cycle
 
 In this guide we will explore both what custom steps are, how we can leverage them and how to build great custom steps following best practises and potentially even contributing them back to the community.
 
+## SAS Viya APIs [Work in Progress]
+
+The SAS Viya APIs enable you to integrate SAS Viya functionality into your application and automate things like never before.
+
 ## Quick Tips
 
 This isn't necessarily a guide in the strict sense of the word but rather a collection of tips and tricks that I though worth sharing. They usually include screenshots, code snippets, links and explanations.
