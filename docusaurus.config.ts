@@ -5,7 +5,7 @@ const config = {
   title: 'The SAS Viya Guide',
   tagline: 'A Comprehensive Resource for SAS Viya Developers and Users - by David Weik',
   url: 'https://criptic.github.io',
-  baseUrl: '/the-sas-viya-guide/',
+  baseUrl: '/The-SAS-Viya-Guide/',
   onBrokenLinks: 'throw',
   deploymentBranch: 'gh-pages',
   markdown: {
