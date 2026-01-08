@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkthe_sas_viya_guide=globalThis.webpackChunkthe_sas_viya_guide||[]).push([[6366],{6366(e,a,s){s.d(a,{createArchitectureServices:()=>i.S});var i=s(8980);s(7960)}}]);
