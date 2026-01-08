@@ -1,0 +1,8 @@
+{
+  "label": "SAS Viya ALC",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "The SAS Viya Analytics Lifecycle (ALC) in one example end to end."
+  }
+}

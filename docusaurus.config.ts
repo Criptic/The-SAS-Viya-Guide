@@ -36,6 +36,16 @@ const config = {
   ],
 
   plugins: [
+        [
+      '@docusaurus/plugin-content-docs',
+      {
+        // Instance 2: The "Procs"
+        id: 'procs', 
+        path: 'procs', 
+        routeBasePath: 'procs',
+        sidebarPath: './sidebarsProcs.ts', // Separate sidebar file
+      },
+    ],
     [
       '@docusaurus/plugin-content-docs',
       {
@@ -53,6 +63,7 @@ const config = {
       title: 'SAS Viya Guide',
       items: [
         {type: 'doc', docId: 'intro', position: 'left', label: 'Guides'},
+        {type: 'doc', docId: 'intro', docsPluginId: 'procs', position: 'left', label: 'Proc Guide'},
         {type: 'doc', docId: 'intro', docsPluginId: 'updates', position: 'left', label: 'Updates'},
         {
           href: 'https://github.com/criptic/the-sas-viya-guide',
